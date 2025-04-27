@@ -21,6 +21,7 @@ Customer Churn Report.pdf
 
 Key Findings
 
+
 Overall churn rate: ~26%.
 
 Higher churn among month-to-month contract customers, fiber optic internet users, and customers with high monthly charges.
@@ -29,6 +30,7 @@ Financial factors (Monthly Charges, Total Charges) and service-related factors (
 
 
 Business Recommendations
+
 
 Offer loyalty discounts to high-risk customers.
 
@@ -39,6 +41,7 @@ Encourage longer-term contracts with service bundling and incentives.
 
 Tools Used
 
+
 SQL (BigQuery in Google Colab)
 
 Python (Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn)
@@ -47,7 +50,9 @@ Google Colab
 
 GitHub
 
+
 Future Improvements
+
 
 Incorporate customer satisfaction survey data.
 
