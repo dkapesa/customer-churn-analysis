@@ -18,6 +18,7 @@ Customer Churn Report.pdf (Link to file)
 → Full project report including EDA findings, key business insights, model evaluation, business recommendations, and future work.
 
 Key Findings
+
 Overall churn rate: ~26%.
 
 Higher churn among month-to-month contract customers, fiber optic internet users, and customers with high monthly charges.
@@ -25,6 +26,7 @@ Higher churn among month-to-month contract customers, fiber optic internet users
 Financial factors (Monthly Charges, Total Charges) and service-related factors (contract type, internet service) are critical churn predictors.
 
 Business Recommendations
+
 Offer loyalty discounts to high-risk customers.
 
 Improve onboarding processes to reduce early-stage churn.
@@ -32,6 +34,7 @@ Improve onboarding processes to reduce early-stage churn.
 Encourage longer-term contracts with service bundling and incentives.
 
 Tools Used
+
 SQL (BigQuery in Google Colab)
 
 Python (Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn)
@@ -41,6 +44,7 @@ Google Colab
 GitHub
 
 Future Improvements
+
 Incorporate customer satisfaction survey data.
 
 Build time-series models to capture churn over time.
