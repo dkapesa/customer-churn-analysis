@@ -14,8 +14,10 @@ Customer Churn Analysis - ML
 https://colab.research.google.com/drive/1kUzzzyBJvCUEUiOuuOpRsT6z7Ut4GWat?usp=sharing)
 → Machine learning modeling (Logistic Regression, Random Forest, XGBoost) and feature importance analysis.
 
-Customer Churn Report.pdf (Link to file)
+
+Customer Churn Report.pdf
 → Full project report including EDA findings, key business insights, model evaluation, business recommendations, and future work.
+
 
 Key Findings
 
@@ -25,6 +27,7 @@ Higher churn among month-to-month contract customers, fiber optic internet users
 
 Financial factors (Monthly Charges, Total Charges) and service-related factors (contract type, internet service) are critical churn predictors.
 
+
 Business Recommendations
 
 Offer loyalty discounts to high-risk customers.
@@ -32,6 +35,7 @@ Offer loyalty discounts to high-risk customers.
 Improve onboarding processes to reduce early-stage churn.
 
 Encourage longer-term contracts with service bundling and incentives.
+
 
 Tools Used
 
