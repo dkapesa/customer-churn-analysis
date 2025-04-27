@@ -5,11 +5,13 @@ This project analyses customer churn patterns for a telecom company. The objecti
 
 Files Included
 Customer Churn Analysis - SQL 
-(Link to file: https://colab.research.google.com/drive/1xGlNSB7NU8fhdT_S1_eMlzBDUx1ihU2g?usp=sharing)
+(Link to file: 
+https://colab.research.google.com/drive/1xGlNSB7NU8fhdT_S1_eMlzBDUx1ihU2g?usp=sharing)
 → SQL-based exploratory analysis and insights.
 
 Customer Churn Analysis - ML 
-(Link to file:https://colab.research.google.com/drive/1kUzzzyBJvCUEUiOuuOpRsT6z7Ut4GWat?usp=sharing)
+(Link to file:
+https://colab.research.google.com/drive/1kUzzzyBJvCUEUiOuuOpRsT6z7Ut4GWat?usp=sharing)
 → Machine learning modeling (Logistic Regression, Random Forest, XGBoost) and feature importance analysis.
 
 Customer Churn Report.pdf (Link to file)
